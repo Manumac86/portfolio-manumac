@@ -9,3 +9,10 @@
 .menu-list li {
     padding: 0 10px;
 }
+
+.menu-list a {
+    font-family: 'Nunito', sans-serif;
+    color: rgb(3, 88, 173);
+    text-decoration: none;
+    font-weight: 600;
+}

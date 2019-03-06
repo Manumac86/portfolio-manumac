@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
 .Hero-Layout {
+    font-family: 'Nunito', sans-serif;
     height: 100vh;
     background-color: lightblue;
     display: flex;
@@ -18,7 +21,7 @@
 .Hero-Layout img {
     width: 80px;
     border-radius: 50%;
-    margin: 10px 0 10px 0;
+    margin-top: 10px;
 }
 
 .title-container h1 {
