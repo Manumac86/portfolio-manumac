@@ -1,15 +1,13 @@
 import React from 'react';
 import './hero-layout.css';
 import avatar from '../../images/avatar.jpg';
-import Menu from '../../menu/containers/menu';
 
 function HeroLayout() {
     return (
-        <div className='Hero-Layout'>
+        <div className='Hero-Layout'id="hero">
             <div className='title-container'>
-                <img src={avatar}></img>
+                <img src={avatar} alt="Avatar"></img>
                 <h1>Emmanuel Martínez</h1>
-                <Menu></Menu>  
             </div>
         </div>
     );

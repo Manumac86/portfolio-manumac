@@ -1,13 +1,24 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Hero from './hero/containers/hero';
+import Menu from './menu/containers/menu';
+/* import About from './about/containers/about';
+import Projects from './projects/containers/projects';
+import Education from './education/containers/education';
+import Experience from './experience/containers/experience';
+import Contact from './contact/containers/contact'; */
 
 class App extends Component {
   render() {
     return (
       <div className="App">
         <Hero></Hero>
+        <Menu></Menu>
+        {/* <About></About>
+        <Projects></Projects>
+        <Education></Education>
+        <Experience></Experience>
+        <Contact></Contact> */}
       </div>
     );
   }

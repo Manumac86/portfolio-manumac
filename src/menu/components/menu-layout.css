@@ -1,16 +1,20 @@
 .Menu-Layout {
     background-color: white;
+    width: 100%;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    z-index: 10;
 }
 .menu-list {
-    display: inline-flex;
-    flex-wrap: nowrap;
-    list-style: none;
+    color: rgb(3, 88, 173);
+    width: 100%;
 }
 .menu-list li {
     padding: 0 10px;
 }
 
-.menu-list a {
+.navbar-light .navbar-nav .nav-link {
     font-family: 'Nunito', sans-serif;
     color: rgb(3, 88, 173);
     text-decoration: none;
