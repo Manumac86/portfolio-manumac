@@ -1,0 +1,30 @@
+.About-Layout {
+    height: 100%;
+    background-color: gainsboro;
+    padding-top: 50px;
+}
+.About-Title {
+    padding: 10px 10px 0px 20px;
+    font-family: 'Nunito', sans-serif;
+}
+.About-Title h2 {
+    font-weight: 600;
+}
+.About-Section-Container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.About-Description {
+    padding: 0px 10px 10px 30px;
+}
+.About-Description p {
+    text-align: justify;
+}
+.About-Description span{
+    font-weight: bold;
+}
+.About-Image img {
+    margin: 0 20px 20px 20px;
+    width: 90%;
+    border-radius: 20px 0 20px 0;
+}
