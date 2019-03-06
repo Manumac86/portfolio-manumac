@@ -1,0 +1,29 @@
+.Hero-Layout {
+    height: 100vh;
+    background-color: lightblue;
+    display: flex;
+    align-content: flex-start;
+    align-items: flex-start;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.title-container {
+    background-color: rgb(3, 88, 173);
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.Hero-Layout img {
+    width: 80px;
+    border-radius: 50%;
+    margin: 10px 0 10px 0;
+}
+
+.title-container h1 {
+    color: white;
+    font-size: 32px;
+    margin: 0;
+    padding: 0 0 10px 0;
+}

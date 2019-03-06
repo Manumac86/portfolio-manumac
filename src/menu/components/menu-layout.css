@@ -1,0 +1,11 @@
+.Menu-Layout {
+    background-color: white;
+}
+.menu-list {
+    display: inline-flex;
+    flex-wrap: nowrap;
+    list-style: none;
+}
+.menu-list li {
+    padding: 0 10px;
+}
