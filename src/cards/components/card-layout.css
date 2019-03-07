@@ -1,0 +1,27 @@
+.Card-Layout {
+    width: 280px;
+    height: 310px;
+    padding: 0px;
+    margin: 10px 15px 10px 0;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+.Card-Layout h3 {
+    font-weight: 500;
+    font-size: 25px;
+    padding: 10px 0;
+}
+.Card-Layout img {
+    margin-bottom: 10px;
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+.Card-Layout p {
+    margin: 0;
+}
+.Card-Layout a:hover {
+    text-decoration: none;
+    color: darkgray;
+}

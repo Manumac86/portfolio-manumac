@@ -1,0 +1,21 @@
+.Projects-Layout {
+    background-color: rgb(34, 120, 233);
+    height: 100%;
+    padding: 50px 0;
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+}
+.Cards-Container {
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.Projects-Title h2 {
+    font-weight: 600;
+    color: white;
+    text-align: center;
+}

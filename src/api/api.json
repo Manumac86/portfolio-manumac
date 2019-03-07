@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "title": "Ufo Zona Caliente",
+        "image": "../images/ufo.png",
+        "link": "#"
+    },
+    {
+        "id": "2",
+        "title": "Museo Patagonico",
+        "image": "../images/museo.png",
+        "link": "#"
+    }
+]
