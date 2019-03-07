@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "1d12bc73c14cc24d79fc",
-    "url": "/static/css/main.54a748f3.chunk.css"
+    "revision": "65033f592fdb3e1998fa",
+    "url": "/static/css/main.d0d128e8.chunk.css"
   },
   {
-    "revision": "1d12bc73c14cc24d79fc",
-    "url": "/static/js/main.55d90d67.chunk.js"
+    "revision": "65033f592fdb3e1998fa",
+    "url": "/static/js/main.2c32892f.chunk.js"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
     "url": "/static/js/runtime~main.c5541365.js"
   },
   {
-    "revision": "c44447bb4edfc437ae20",
-    "url": "/static/js/2.d0d39956.chunk.js"
+    "revision": "e1dba1a43f1ac84e8574",
+    "url": "/static/js/2.68ce230c.chunk.js"
   },
   {
     "revision": "7b87928d580cca969f54b7c673606d0a",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/static/media/nueve-tercios.61d4cc90.jpg"
   },
   {
-    "revision": "e66439c37c8d7060f6d252eca41043b4",
+    "revision": "472a39faf84415d28c16ac02cc2a8396",
     "url": "/index.html"
   }
 ];
