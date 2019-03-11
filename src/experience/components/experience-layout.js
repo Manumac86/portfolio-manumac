@@ -149,7 +149,7 @@ function ExperienceLayout(){
                             <li className="col-sm-3 col-md-2 text-left border-bottom border-primary rounded-right mr-3 mt-3"><i class="fab fa-react"></i>ReactJS</li>
                             <li className="col-sm-3 col-md-2 text-left border-bottom border-primary rounded-right mr-3 mt-3"><i class="fab fa-react"></i>NextJS</li>
                             <li className="col-sm-3 col-md-2 text-left border-bottom border-primary rounded-right mr-3 mt-3"><i class="fas fa-th"></i>Bootstrap</li>
-                            <li className="col-sm-3 col-md-2 text-left border-bottom border-primary rounded-right mr-3 mt-3"><i class="fab fa-wordpress"></i>ZURB Foundation</li>
+                            <li className="col-sm-3 col-md-2 text-left border-bottom border-primary rounded-right mr-3 mt-3"><i class="fas fa-th"></i>ZURB Foundation</li>
                             <li className="col-sm-3 col-md-2 text-left border-bottom border-primary rounded-right mr-3 mt-3"><i class="fab fa-wordpress"></i>Wordpress</li>
                             <li className="col-sm-3 col-md-2 text-left border-bottom border-primary rounded-right mr-3 mt-3"><i class="fas fa-code-branch"></i>Git</li>
                             <li className="col-sm-3 col-md-2 text-left border-bottom border-primary rounded-right mr-3 mt-3"><i class="fab fa-bitbucket"></i>BitBucket</li>
