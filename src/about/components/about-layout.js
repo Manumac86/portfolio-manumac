@@ -11,7 +11,7 @@ function AboutLayout() {
                 <div className="About-Description col-md-7">
                     <p>
                         I'm a passionate <span>FrontEnd Developer </span>from <span>Córdoba, Argentina</span>. <br></br>
-                        I enjoy working in a friendly environment with a commited team looking for the same common objectives. <br></br>
+                        I enjoy working in a friendly environment with a committed team looking for the same common objectives. <br></br>
                         I truly believe that communication skills and respect are the basis of an unstoppable and unique team. 
                     </p>
                     <p>
@@ -24,7 +24,7 @@ function AboutLayout() {
                     <p>
                         I love to code, design, discover, learning, look into new technologies and figure how to apply 
                         them to new or existing projects to improve the user experience, performance, and capabilities. <br></br>
-                        I love sharing everything I learn and encourage people to create things that impact on other people's life.
+                        I love sharing everything I learn and to encourage people to create things that impact on other people's life.
                     </p>
                     <p>
                         I have a soul mate who makes my days very happy, and we're about to be parents 

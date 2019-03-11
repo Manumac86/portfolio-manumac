@@ -5,8 +5,8 @@ import Menu from './menu/containers/menu';
 import About from './about/containers/about';
 import Projects from './projects/containers/projects';
 import Contact from './contact/containers/contact';
-/* import Education from './education/containers/education';
-import Experience from './experience/containers/experience'; */
+/* import Education from './education/containers/education'; */
+import Experience from './experience/containers/experience';
 
 class App extends Component {
   render() {
@@ -16,8 +16,8 @@ class App extends Component {
         <Menu></Menu>
         <About></About>
         <Projects></Projects>
-        {/* <Education></Education>
-        <Experience></Experience> */}
+        {/* <Education></Education>*/}
+        <Experience></Experience> 
         <Contact></Contact> 
       </div>
     );
