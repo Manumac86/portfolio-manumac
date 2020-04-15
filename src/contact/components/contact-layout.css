@@ -37,7 +37,6 @@
 }
 .Social-Container a {
     text-decoration: none;
-    width: 100%;
 }
 .Social-Container a:hover {
     color: white;
@@ -47,4 +46,16 @@
 }
 .Social-Title {
     width: 100%;
+}
+.socialIconContainer {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+.Social-Container .socialIconImage { 
+    width: 20px;
+    margin: 0 10px;
+    border-radius: 10px;
 }
