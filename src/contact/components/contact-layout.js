@@ -24,8 +24,8 @@ function ContactLayout() {
                 </div>
                 <div className="Social-Container col-md-6">
                     <h4>Direct</h4>
-                    <a href="mailto:hi@manumac.com.ar">hi@manumac.com.ar</a>
-                    <a href="mailto:emmartinez86@gmail.com">emmartinez86@gmail.com</a>
+                    <a className="socialIconContainer" href="mailto:hi@manumac.com.ar">hi@manumac.com.ar</a>
+                    <a className="socialIconContainer" href="mailto:emmartinez86@gmail.com">emmartinez86@gmail.com</a>
                 </div>
             </div>
             <h4><a href="http://manumac.com.ar">Emmanuel Martínez</a></h4>
